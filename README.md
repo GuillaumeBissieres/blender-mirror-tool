@@ -4,6 +4,8 @@ An add-on to mirror selected controller in Blender
 
 <img width="1200" height="600" alt="Mirror Tool" src="https://github.com/user-attachments/assets/b823c1b5-eec2-4540-9988-993b6e457795" />
 
+#
+
 Mirror Tool is an animation and rigging utility that allows users to mirror transformations across rig controllers. It supports standard custom rigs as well as generated rigs from Auto Rig Pro and Rigify. The tool copies position, rotation, and scale data from one side of a rig to the other while maintaining orientation consistency to avoid distortion.
 
 The interface provides controls for instantaneous mirroring, including specific left-to-right or right-to-left operations. Users can blend between the original and mirrored pose in real time using an adjustable strength slider. Additional features include one-click selection isolation for specific rig sides, bulk keyframe mirroring for active controls, and inverse target operations.
