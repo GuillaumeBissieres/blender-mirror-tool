@@ -1,0 +1,14 @@
+schema_version = "1.0.0"
+id = "mirror_tool"
+version = "1.0.5"
+name = "Mirror Tool"
+tagline = "An add-on to mirror selected controler in Blender"
+maintainer = "Bissieres Guillaume"
+type = "add-on"
+website = "https://bissieres.gumroad.com/l/MirrorTool"
+tracker_url = "https://github.com/GuillaumeBissieres/FillMesh/issues"
+tags = ["3D View"]
+blender_version_min = "4.2.0"
+license = [
+"SPDX:GPL-3.0-or-later",
+]
